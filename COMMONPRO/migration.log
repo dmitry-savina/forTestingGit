@@ -340,3 +340,9 @@
  * Task [ChangeDBVersionValue4BonitaComponents] : Nothing to do
  * Task [AutoUpdateRelationsMigrationTask] : Nothing to do
  ---=== End of migration ===---
+ * Task [Fix a problem of project resources linked to items] : Applied successfully
+ * Task [AddApiModeToMarketoComponentsMigrationTask] : Applied successfully
+ * Task [Set the Spark Dataframe Alphabatical sort order in tHiveOutput and tFileOutputParquet] : Applied successfully
+ * Task [Decode URI to save functionality of component correct] : Applied successfully
+ * Task [AutoUpdateRelationsMigrationTask] : Applied successfully
+ ---=== End of migration ===---
