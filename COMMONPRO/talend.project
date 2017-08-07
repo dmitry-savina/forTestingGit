@@ -1253,5 +1253,5 @@
     <migrationTask xmi:id="_-ti_M3sjEeeG781vz2CrQQ" id="org.talend.repository.model.migration.DecodeURIInTFileFetch" breaks="6.0.1" version="6.1.3" status="ok"/>
     <migrationTask xmi:id="_-ti_NHsjEeeG781vz2CrQQ" id="org.talend.repository.model.migration.AutoUpdateRelationsMigrationTask" breaks="5.1.1" version="5.1.2" status="ok"/>
   </TalendProperties:Project>
-  <TalendProperties:User xmi:id="_zi5aYnMkEea2QtDRiJ4O5A" login="admin@company.com" firstName="admin" lastName="admin" type="MDM" additionnalData="{}"/>
+  <TalendProperties:User xmi:id="_zi5aYnMkEea2QtDRiJ4O5A" login="admin@company.com" firstName="admin8081" lastName="admin8081" type="MDM" additionnalData="{}"/>
 </xmi:XMI>
